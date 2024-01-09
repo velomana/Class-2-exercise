@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-#Exercise 1
-##Created by velomana:
+# Exercise 1
+## Created by velomana:
 in today's class we've covered how to create a repository on GitHub and deploy it into Versel
 also few different types of bottons with different fonctions such as nav bar and footer
 
