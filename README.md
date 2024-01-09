@@ -2,8 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Exercise 1
 ## Created by velomana:
-in today's class we've covered how to create a repository on GitHub and deploy it into Versel
-also few different types of bottons with different fonctions such as nav bar and footer
+in today's class we've covered how to create a repository on GitHub and deploy it into Versel.
+second half of the class we also learn how to create web App that contains: Header, Footer and, NavBar. In general,
+it was mostly about how to set up a packaging of App and the roots that is needed to run the App
 
 First, run the development server:
 
